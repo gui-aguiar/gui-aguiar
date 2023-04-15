@@ -7,7 +7,7 @@ Sou um desenvolvedor de software Fullstack, especialista em Backend.
 <br>
 
 ### 👨‍💻 Habilidades<br>
-- Linguagens de programação: C#, PHP, JavaScript, Python, Java, Delphi.<br>
+- Linguagens: C#, PHP, JavaScript, Python, Java, Delphi.<br>
 - Frameworks e bibliotecas: Selenium, SlimFramwork (PHP), WebApi (C#), AutoFac (C#), MSTest (C#) Bootstrap.<br>
 - Banco de dados: MySQL, PostgreSQL, SQL Server.<br>
 - CI/CD: Jenkins.<br>
