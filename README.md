@@ -1,4 +1,4 @@
-## Olá, eu sou o Guilherme Aguia 👋
+## Olá, eu sou o Guilherme Aguiar 👋
 
 Sou um desenvolvedor de software Fullstack, especialista em Backend. 
 
