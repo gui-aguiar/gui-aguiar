@@ -3,6 +3,15 @@
 Sou um desenvolvedor de software Fullstack, especialista em Backend. 
 
 ### 🚀 Projetos <br>
+- [ML-Framework](https://github.com/gui-aguiar/ML-Framework) <br>
+ Framework desenvolvido durante o mestrado de Engenharia de Software da Universidade Federal de Santa Catarina ( UFSC ). Para validação do mesmo, três desenvolvedores utilizaram o mesmo para criar aplicações e avaliar seus benefícios<br>
+  - [Avaliador 1](https://github.com/gui-aguiar/First-Framework-Evaluation)
+  - [Avaliador 2](https://github.com/gui-aguiar/Second-Framework-Evaluation)
+  - [Avaliador 3](https://github.com/gui-aguiar/Third-Framework-Evaluation)
+  
+  O trabalho pode ser encontrado em: https://repositorio.ufsc.br/handle/123456789/211410
+
+  
 
 <br>
 
