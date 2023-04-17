@@ -22,7 +22,7 @@ Sou um desenvolvedor de software Fullstack, especialista em Backend.
 - Banco de dados: MySQL, PostgreSQL, SQL Server.<br>
 - CI/CD: Jenkins.<br>
 - Ferramentas de desenvolvimento: Visual Studio Code, Git, GitHub, GitLab, Jira, Trello.<br>
-<br>
+
 ### 📫 Entre em contato<br>
 - [LinkedIn](https://www.linkedin.com/in/gui-aguiar/) <br>
 
