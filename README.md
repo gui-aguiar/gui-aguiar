@@ -9,11 +9,12 @@ Sou um desenvolvedor de software Fullstack, especialista em Backend.
   - [Avaliador 2](https://github.com/gui-aguiar/Second-Framework-Evaluation)
   - [Avaliador 3](https://github.com/gui-aguiar/Third-Framework-Evaluation)
   
-  O trabalho pode ser encontrado em: https://repositorio.ufsc.br/handle/123456789/211410
+  O trabalho pode ser encontrado em: https://repositorio.ufsc.br/handle/123456789/211410 <br>
 
+- [IDEAL Applications](https://github.com/gui-aguiar/Ideal-Applications) <br>
+  Aplicações desenvolvidas utilziando o [ML-Framework](https://github.com/gui-aguiar/ML-Framework) para a publicação de artigo científico para International Conference On Intelligent Data Engineergin and Automatesd Learning [IDEAL](https://link.springer.com/book/10.1007/978-3-030-03493-1).  <br>
   
-
-<br>
+    Artigo Disponível em: https://link.springer.com/chapter/10.1007/978-3-030-03493-1_80<br>
 
 ### 👨‍💻 Habilidades<br>
 - Linguagens: C#, PHP, JavaScript, Python, Java, Delphi.<br>
@@ -22,10 +23,8 @@ Sou um desenvolvedor de software Fullstack, especialista em Backend.
 - CI/CD: Jenkins.<br>
 - Ferramentas de desenvolvimento: Visual Studio Code, Git, GitHub, GitLab, Jira, Trello.<br>
 <br>
-
 ### 📫 Entre em contato<br>
 - [LinkedIn](https://www.linkedin.com/in/gui-aguiar/) <br>
-
 
 <!--
 **gui-aguiar/gui-aguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
