@@ -23,11 +23,18 @@ Sou um desenvolvedor de software Fullstack, especialista em Backend.
 - CI/CD: Jenkins.<br>
 - Ferramentas de desenvolvimento: Visual Studio Code, Git, GitHub, GitLab, Jira, Trello.<br>
 
+
 ### 📫 Entre em contato<br>
 - [LinkedIn](https://www.linkedin.com/in/gui-aguiar/) <br>
 
 <!--
 **gui-aguiar/gui-aguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#### 📈 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gui-aguiar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Gui's GitHub stats](https://github-readme-stats.vercel.app/api?username=gui-aguiar&show_icons=true)
 
 Here are some ideas to get you started:
 
